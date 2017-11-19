@@ -1,0 +1,17 @@
+{
+  "app_name": {
+    "message": "Reminder"
+  },
+  "app_description": {
+    "message": "Браузерная напоминалка."
+  },
+  "browser_action": {
+    "message": "Переключить вид комментариев"
+  },
+  "mode_enable": {
+    "message": "Без комментариев!"
+  },
+  "mode_disable": {
+    "message": "С комментариями!"
+  }
+}
